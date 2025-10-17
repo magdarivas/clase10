@@ -27,4 +27,5 @@ async function datos(raw) {
     }
 }
 
+
 datos("https://raw.githubusercontent.com/magdarivas/clase10/refs/heads/main/datos.json");
