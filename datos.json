@@ -2,7 +2,7 @@
     {
         "title": "Bolso upcycling Mad Smile",
         "category": "Textil",
-        "imagen": "img/tallercuatro.jpg",
+        "imagen": "https://magdarivas.github.io/clase10/img/tallercuatro.jpg",
         "description": "Taller cuatro",
     },
     {
@@ -68,3 +68,4 @@
 
 
 ]
+
