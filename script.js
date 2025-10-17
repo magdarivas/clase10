@@ -22,9 +22,10 @@ async function datos(raw) {
                     </div>
                 </div>`;
         });
-    } catch (error) {
-        console.error("Error al cargar los datos:", error);
+   } catch (error) {
+        console.error("Error al cargar los datos:",error);
     }
 }
+
 
 datos("https://raw.githubusercontent.com/magdarivas/clase10/refs/heads/main/datos.json");
