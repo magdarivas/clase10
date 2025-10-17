@@ -6,7 +6,7 @@ async function datos(raw) {
         let trabajos = await consulta.json();
         console.log(trabajos);
         trabajos.forEach((trabajo) => {
-            portfolio.innerHTML += `
+            portafolio.innerHTML += `
 
                             <div class="col">
                                 <div class="card shadow-sm">
@@ -30,5 +30,6 @@ async function datos(raw) {
 }
 
 datos("https://raw.githubusercontent.com/magdarivas/clase10/refs/heads/main/datos.json");
+
 
 
