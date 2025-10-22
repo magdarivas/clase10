@@ -6,31 +6,26 @@ async function datos(raw) {
         let trabajos = await consulta.json();
         console.log(trabajos);
         trabajos.forEach((trabajo) => {
-            portfolio.innerHTML += `
-
-                            <div class="col">
-                                <div class="card shadow-sm">
-                                <img src="${trabajo.imagen}" class="card-img-top" alt="${trabajo.titulo}">
-                                <div class="card-body">
-                                <p class="card-text">${trabajo.titulo}</p>
-                                <div class="d-flex
-                                justify-content-between
-                                align-items-center">
-                                <div class="btn-group">
-                                <button type="button" class="btn btn-sm btn-outline-secondary">${trabajo.categoria}</button>
-                                </div>
-                                <small class="text-body-secondary">Reciente </small>
-             </div>
-             </div>
+    portfolio.innerHTML += `
+        <div class="col">
+            <div class="card shadow-sm h-100">
+                <img src="${trabajo.imagen}" class="card-img-top" alt="${trabajo.titulo}">
+                <div class="card-body d-flex flex-column">
+                    <h5 class="card-title">${trabajo.titulo}</h5>
+                    <p class="card-text text-muted">${trabajo.descripcion}</p>
+                    <div class="d-flex justify-content-between align-items-center mt-auto">
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-sm btn-outline-secondary disabled">${trabajo.categoria}</button>
+                        </div>
+                        <small class="text-body-secondary">Reciente</small>
+                    </div>
+                </div>
             </div>
-            </div>`;
-        });
+        </div>`;
+});
     } catch (error) {
-        console.error("Error al cargar los datos:",error);
+        console.error("Error al cargar los datos:", error);
+    }
 }
 
 datos("https://raw.githubusercontent.com/magdarivas/clase10/refs/heads/main/datos.json");
-
-
-
-
