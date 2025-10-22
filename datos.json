@@ -1,71 +1,72 @@
 [
     {
-        "title": "Bolso upcycling Mad Smile",
+        "titulo": "Bolso upcycling Mad Smile",
         "category": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/tallercuatro.jpg",
-        "description": "Taller cuatro"
+        "descripcion": "Taller cuatro"
     },
     {
-        "title": "Cartera tejida a telar",
-        "category": "Textil",
+        "titulo": "Cartera tejida a telar",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/textilesandinos.jpg",
-        "description": "Textiles Andinos"
+        "descripcion": "Textiles Andinos"
     },
     {
-        "title": "Envolvente zero-waste",
-        "category": "Textil",
+        "titulo": "Envolvente zero-waste",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/tallersiete.jpg",
-        "description": "Taller siete"
+        "descripcion": "Taller siete"
     },
     {
-        "title": "Broches bordados",
-        "category": "Textil",
+        "titulo": "Broches bordados",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/brochesbordados.jpg",
-        "description": "Curso de pedrería"
+        "descripcion": "Curso de pedrería"
     },
     {
-        "title": "Colaboración Paris x Lolla",
-        "category": "Textil",
+        "titulo": "Colaboración Paris x Lolla",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/practica.jpg",
-        "description": "Práctica de oficina"
+        "descripcion": "Práctica de oficina"
     },
     {
-        "title": "Falda con bordado inspirada en huracán",
-        "category": "Textil",
+        "titulo": "Falda con bordado inspirada en huracán",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/tallerseis.jpg",
-        "description": "Taller seis"
+        "descripcion": "Taller seis"
     },
     {
         "title": "Broche gato gótico payaso",
-        "category": "Textil",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/brocheregalo",
-        "description": "Broche de pedrería hecho para un regalo"
+        "descripcion": "Broche de pedrería hecho para un regalo"
     },
     {
-        "title": "Muestra bordada 1",
-        "category": "Textil",
+        "titulo": "Muestra bordada 1",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/exp1.jpg",
-        "description": "Una de las muestras de experimentación bordadas que hice para mi proyecto de título"
+        "descripcion": "Una de las muestras de experimentación bordadas que hice para mi proyecto de título"
     },
     {
-        "title": "Muestra bordada 2",
-        "category": "Textil",
+        "titulo": "Muestra bordada 2",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/exp2.jpg",
-        "description": "Otra de las muestras de experimentación bordadas que hice para mi proyecto de título"
+        "descripcion": "Otra de las muestras de experimentación bordadas que hice para mi proyecto de título"
     },
     {
-        "title": "Perro bóxer tejido a crochet",
+        "titulo": "Perro bóxer tejido a crochet",
         "category": "Textil",
-        "imagen": "https://github.com/magdarivas/clase10/img/amigurumi1.jpg",
-        "description": "Amigurumi hecho para la venta."
+        "categoria": "https://github.com/magdarivas/clase10/img/amigurumi1.jpg",
+        "descripcion": "Amigurumi hecho para la venta."
     },
     {
-        "title": "Gansitos tejidos a crochet",
-        "category": "Textil",
+        "titulo": "Gansitos tejidos a crochet",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/amigurumi2.jpg",
-        "description": "Amigurumis hechos para la venta."
+        "descripcion": "Amigurumis hechos para la venta."
     }
 ]
+
 
 
 
