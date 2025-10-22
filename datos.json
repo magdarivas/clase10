@@ -1,7 +1,7 @@
 [
     {
         "titulo": "Bolso upcycling Mad Smile",
-        "category": "Textil",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/tallercuatro.jpg",
         "descripcion": "Taller cuatro"
     },
@@ -55,7 +55,7 @@
     },
     {
         "titulo": "Perro bóxer tejido a crochet",
-        "category": "Textil",
+        "categoria": "Textil",
         "imagen": "https://github.com/magdarivas/clase10/img/amigurumi1.jpg",
         "descripcion": "Amigurumi hecho para la venta."
     },
@@ -66,6 +66,7 @@
         "descripcion": "Amigurumis hechos para la venta."
     }
 ]
+
 
 
 
