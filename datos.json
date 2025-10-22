@@ -14,7 +14,7 @@
     {
         "titulo": "Envolvente zero-waste",
         "categoria": "Textil",
-        "imagen": img/tallersiete.jpg",
+        "imagen": "img/tallersiete.jpg",
         "descripcion": "Taller siete"
     },
     {
@@ -66,6 +66,7 @@
         "descripcion": "Amigurumis hechos para la venta."
     }
 ]
+
 
 
 
