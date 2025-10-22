@@ -38,7 +38,7 @@
     {
         "title": "Broche gato gótico payaso",
         "categoria": "Textil",
-        "imagen": "https://github.com/magdarivas/clase10/img/brocheregalo",
+        "imagen": "https://github.com/magdarivas/clase10/img/brocheregalo.jpg",
         "descripcion": "Broche de pedrería hecho para un regalo"
     },
     {
@@ -56,7 +56,7 @@
     {
         "titulo": "Perro bóxer tejido a crochet",
         "category": "Textil",
-        "categoria": "https://github.com/magdarivas/clase10/img/amigurumi1.jpg",
+        "imagen": "https://github.com/magdarivas/clase10/img/amigurumi1.jpg",
         "descripcion": "Amigurumi hecho para la venta."
     },
     {
@@ -66,6 +66,7 @@
         "descripcion": "Amigurumis hechos para la venta."
     }
 ]
+
 
 
 
