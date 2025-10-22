@@ -6,7 +6,7 @@ async function datos(raw) {
         let trabajos = await consulta.json();
         console.log(trabajos);
         trabajos.forEach((trabajo) => {
-    portfolio.innerHTML += `
+            portfolio.innerHTML += `
         <div class="col">
             <div class="card shadow-sm h-100">
                 <img src="${trabajo.imagen}" class="card-img-top" alt="${trabajo.titulo}">
@@ -22,7 +22,7 @@ async function datos(raw) {
                 </div>
             </div>
         </div>`;
-});
+        });
     } catch (error) {
         console.error("Error al cargar los datos:", error);
     }
