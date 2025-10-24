@@ -1,71 +1,9 @@
-[
-    {
-        "titulo": "Bolso upcycling Mad Smile",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/tallercuatro.jpg",
-        "descripcion": "Taller cuatro"
-    },
-    {
-        "titulo": "Cartera tejida a telar",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/textilesandinos.jpg",
-        "descripcion": "Textiles Andinos"
-    },
-    {
-        "titulo": "Envolvente zero-waste",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/tallersiete.jpg",
-        "descripcion": "Taller siete"
-    },
-    {
-        "titulo": "Broches bordados",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/brochesbordados.jpg",
-        "descripcion": "Curso de pedrería"
-    },
-    {
-        "titulo": "Colaboración Paris x Lolla",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/practica.jpg",
-        "descripcion": "Práctica de oficina"
-    },
-    {
-        "titulo": "Falda con bordado inspirada en huracán",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/tallerseis.jpg",
-        "descripcion": "Taller seis"
-    },
-    {
-        "title": "Broche gato gótico payaso",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/brocheregalo.jpg",
-        "descripcion": "Broche de pedrería hecho para un regalo"
-    },
-    {
-        "titulo": "Muestra bordada 1",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/exp1.jpg",
-        "descripcion": "Una de las muestras de experimentación bordadas que hice para mi proyecto de título"
-    },
-    {
-        "titulo": "Muestra bordada 2",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/exp2.jpg",
-        "descripcion": "Otra de las muestras de experimentación bordadas que hice para mi proyecto de título"
-    },
-    {
-        "titulo": "Perro bóxer tejido a crochet",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/amigurumi1.jpg",
-        "descripcion": "Amigurumi hecho para la venta."
-    },
-    {
-        "titulo": "Gansitos tejidos a crochet",
-        "categoria": "Textil",
-        "imagen": "https://magdarivas.github.io/clase10/img/amigurumi2.jpg",
-        "descripcion": "Amigurumis hechos para la venta."
-    }
-]
+{
+"data”:[https://api.myjson.online/v1/records/db861388-2ce7-4f73-bf32-25223565f9bc],
+"id": "serie de caracteres",
+"version": número,
+"displayName": "nombre"
+}
 
 
 
