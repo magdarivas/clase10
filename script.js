@@ -31,4 +31,3 @@ async function datos(raw) {
 
 datos("https://api.myjson.online/v1/records/db861388-2ce7-4f73-bf32-25223565f9bc");
 
-
